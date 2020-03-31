@@ -1,12 +1,12 @@
 ## Form Validator (Intro Project)
 
-Simple client side form validation. Check requird, length, email and password match
+Validação simples do formulário do lado do cliente. Com verificação do length email and password. 
 
 ## Project Specifications
 
-- Create form UI
-- Show error messages under specific input
-- checkRequired() to accept array of inputs
-- checkLength() to check min and max length
-- checkEmail() to validate email with regex
-- checkPasswordsMatch() to match confirm password
+- Criar interface do formulario 
+- Mostrar mensagens de erro sob entrada específica.
+- checkRequired() para aceitar o array de inputs(entrada).
+- checkLength() para verificar o tamanho min e maximo do campo. 
+- checkEmail() para validar o email.
+- checkPasswordsMatch() para confirmar a senha. 
