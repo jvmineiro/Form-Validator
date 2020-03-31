@@ -5,7 +5,7 @@ Simple client side form validation. Check requird, length, email and password ma
 ## Project Specifications
 
 - Create form UI
-- Show error messages under specific inputs
+- Show error messages under specific input
 - checkRequired() to accept array of inputs
 - checkLength() to check min and max length
 - checkEmail() to validate email with regex
